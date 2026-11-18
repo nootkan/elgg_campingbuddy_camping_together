@@ -1,1 +1,10 @@
-
+{
+    "name": "campingbuddy/campingbuddy_camping_together",
+    "description": "CampingBuddy Camping Together -- the platform's flagship feature: members camp independently near each other with zero obligation to socialize, matched by region/dates/camping-style compatibility via a public listing that hands off into a private Trip Room once approved.",
+    "type": "elgg-plugin",
+    "keywords": ["elgg", "plugin", "campingbuddy", "camping-together"],
+    "license": "proprietary",
+    "conflict": {
+        "elgg/elgg": "<6.0"
+    }
+}
